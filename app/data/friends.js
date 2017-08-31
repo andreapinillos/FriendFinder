@@ -1,0 +1,112 @@
+
+var friendList = [
+{
+  "name":"Meredith",
+  "profilePic":"https://i.pinimg.com/736x/a2/e1/8c/a2e18cbfbcaa8756fe5b40f472eeff45--profile-picture-profile-pics.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      3
+    ]
+},{
+  "name":"Mark",
+  "profilePic":"https://i.pinimg.com/736x/d7/3b/71/d73b712812f4c6bea344d713a9ce5714.jpg",
+  "scores":[
+      3,
+      2,
+      4,
+      2,
+      3,
+      2,
+      5,
+      3,
+      2,
+      1
+    ]
+},{
+  "name":"Tamara",
+  "profilePic":"https://i.pinimg.com/736x/12/28/17/122817eb98f853d552ac13f870f1b6b8--outline-drawings-profile-pics.jpg",
+  "scores":[
+      4,
+      5,
+      2,
+      3,
+      2,
+      5,
+      4,
+      3,
+      2,
+      2
+    ]
+},{
+  "name":"Cameron",
+  "profilePic":"http://es.artscad.com/A-Imgs.nsf/0/22EDF552CB164706C1257B050075DA47/$FILE/Musa-celik-musa-celik-.Jpg",
+  "scores":[
+      3,
+      2,
+      1,
+      5,
+      4,
+      2,
+      4,
+      2,
+      5,
+      5
+    ]
+},{
+  "name":"Alessandra",
+  "profilePic":"https://i.pinimg.com/736x/92/18/0a/92180affab67f1716bb5ba9e771891c7--outline-drawing-outline-art.jpg",
+  "scores":[
+      5,
+      4,
+      1,
+      3,
+      4,
+      4,
+      2,
+      1,
+      2,
+      3
+    ]
+},{
+  "name":"Camile",
+  "profilePic":"https://s-media-cache-ak0.pinimg.com/736x/d6/57/31/d6573197877ef0bad0020e91138e3e11--people-drawings-drawing-people.jpg",
+  "scores":[
+      3,
+      4,
+      2,
+      2,
+      3,
+      5,
+      4,
+      4,
+      3,
+      2
+    ]
+},{
+  "name":"Stefano",
+  "profilePic":"https://i.pinimg.com/736x/d7/3b/71/d73b712812f4c6bea344d713a9ce5714.jpg",
+  "scores":[
+      2,
+      5,
+      5,
+      3,
+      2,
+      5,
+      4,
+      1,
+      4,
+      4
+    ]
+}
+
+]
+
+module.exports = friendList;
